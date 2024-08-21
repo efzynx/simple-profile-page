@@ -1,0 +1,17 @@
+{
+  "name": "efzyn",
+  "version": "1.0.0",
+  "description": "this just simpel page",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "nodemon server.js"
+  },
+  "author": "efzyn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "expressjs": "^1.0.1",
+    "nodemon": "^3.1.4"
+  }
+}
