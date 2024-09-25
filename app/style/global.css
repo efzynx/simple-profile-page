@@ -65,6 +65,7 @@ body::before {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* max-width: 100em; */
   padding: 20px; /* Padding for small screens */
   box-sizing: border-box; /* Ensure padding is included in height calculation */
 }
